@@ -1,0 +1,7 @@
+//#ifdef VENDOR_EDIT
+#include "display/lahaina-sde-display-common.dtsi"
+#include "display/lahaina-sde-display.dtsi"
+#include "display/lahaina-sde-display-mtp.dtsi"
+//#include "display/dsi-panel-oplus_20085_boe_nt37800_1080-2400-90fps.dtsi"
+//#include "display/dsi-panel-oplus20031-samsung-1440-3216-dsc-cmd-dvt-id07.dtsi"
+//endif
