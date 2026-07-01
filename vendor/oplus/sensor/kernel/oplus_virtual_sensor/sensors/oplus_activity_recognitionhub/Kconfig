@@ -1,4 +1,0 @@
-
-config OPLUS_FEATURE_ACTIVITY_RECOGNITION
-    bool "oplus_activity_recognition for MediaTek package"
-    default n
