@@ -1,3 +1,0 @@
-config OPLUS_FEATURE_SENSOR_ALGORITHM
-	bool "oplus vritual sensor config"
-	default n
